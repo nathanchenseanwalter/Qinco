@@ -17,3 +17,5 @@ data/**/*.fvecs
 data/**/*.png
 data/**/*.npy
 data/**/*.fbin
+
+.venv
